@@ -1,0 +1,30 @@
+.big__card {
+  /* margin-left: 30px; */
+  margin-right: 20px;
+  width: 400px;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Segoe UI';
+  justify-content: flex-start;
+}
+
+.big__card__image > img {
+  width: 400px;
+  height: 300px;
+}
+
+.big__card__title > h1 > a{
+  margin-top: 10px;
+  font-size: 30px;
+  text-decoration: none;
+  color: white;
+}
+
+.big__card__text {
+  margin-top: 10px;
+  color: grey;
+  font-size: 16px;
+  text-decoration: none;
+}

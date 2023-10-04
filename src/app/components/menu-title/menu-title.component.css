@@ -1,0 +1,17 @@
+.menu__title {
+  color: #A7CD2C;
+  font-family: 'Dela Gothic One', cursive;
+}
+
+.menu__title > h1 {
+  font-size: 100px;
+  display: flex;
+  justify-content: center;
+}
+
+.menu__title > hr {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+

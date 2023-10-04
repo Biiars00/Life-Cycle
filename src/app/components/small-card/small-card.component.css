@@ -1,0 +1,30 @@
+.container__small__card {
+  font-family: 'Segoe UI';
+  color: white;
+}
+
+.small__card {
+  width: 600px;
+  height: 150px;
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.small__card > img {
+  width: 150px;
+  height: 150px;
+}
+
+.small__card__card {
+  margin-left: 25px;
+}
+
+.small__card__card > h1 {
+  font-size: 20px;
+}
+
+.small__card__card > p {
+  color: grey;
+  height: 90px;
+  margin-top: 10px;
+}
